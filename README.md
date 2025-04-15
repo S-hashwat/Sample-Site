@@ -1,4 +1,4 @@
-Objective
+**Objective**
 This repository contains a simple portfolio website showcasing the work, achievements, and skills of mine.
 The primary goal of this project is to create a personal website and deploy it using GitHub Pages. 
 This website serves as an online resume and platform to demonstrate skills and projects.
