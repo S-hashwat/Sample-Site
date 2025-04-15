@@ -3,6 +3,7 @@ This repository contains a simple portfolio website showcasing the work, achieve
 The primary goal of this project is to create a personal website and deploy it using GitHub Pages. 
 This website serves as an online resume and platform to demonstrate skills and projects.
 
+----------------------------------------------------------------------------------------------------------------
 **1. Project Setup**
 To set up the portfolio website, the following key files are created:
 
@@ -11,6 +12,8 @@ To set up the portfolio website, the following key files are created:
 **1.2 style.css:** This file defines the styling of the portfolio, including the layout, color scheme, and typography to ensure a clean and user-friendly design.
 
 Once these files are created, they can be added to a GitHub repository to be pushed and deployed on GitHub Pages.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. Git Commands for Deployment**
 Follow these Git commands to push your portfolio website to a GitHub repository:
@@ -24,6 +27,8 @@ Follow these Git commands to push your portfolio website to a GitHub repository:
 **2.4 Create Remote Repository:** Create a new repository on GitHub and link it to your local repository.
 
 **2.5 Push to GitHub:** Push your code to GitHub to make it available online.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3. Enable GitHub Pages**
 Go to the Settings of your GitHub repository. Navigate to the Pages section.
